@@ -1,0 +1,3 @@
+/googleTest_framework/googleTest_framework-main/CMakeFiles/rebuild_cache.dir
+/googleTest_framework/googleTest_framework-main/CMakeFiles/edit_cache.dir
+/googleTest_framework/googleTest_framework-main/CMakeFiles/executeTests.dir
